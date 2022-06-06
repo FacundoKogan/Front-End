@@ -1,0 +1,26 @@
+h1{
+  font-size: 35px;
+  letter-spacing: 2mm;
+}
+.h {
+  color: #005677;
+  background-color: #C4C4C4;  
+}
+header{
+    text-align: center;
+}
+.img {
+    background-color: #E6E6E6;
+}
+span{
+   font-weight: bold; 
+}
+footer{
+    background-color: #005677;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: bold;
+}
+p.align{
+    padding-left: 68px;
+}
